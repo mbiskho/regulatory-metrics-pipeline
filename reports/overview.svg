@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="1200" height="760" fill="#ffffff"/>
+<style>text{font-family:Arial,sans-serif;fill:#172a45} .muted{fill:#67778b} .grid{stroke:#e1e8f0;stroke-width:1} .card{fill:#f4f8fc;stroke:#e1e8f0}</style>
+
+<text x="56" y="76" font-size="34" font-weight="700">REGULATORY METRICS PIPELINE</text>
+<text class="muted" x="58" y="106" font-size="16">SYNTHETIC DATA - ILLUSTRATIVE CAPITAL PROXIES ONLY</text>
+<rect class="card" x="56" y="126" width="334" height="104" rx="14"/><text class="muted" x="74" y="158" font-size="13">CAPITAL RATIO - ILLUSTRATIVE</text><text x="74" y="205" font-size="30" font-weight="700" fill="#2e70dc">23.06%</text><rect class="card" x="422" y="126" width="334" height="104" rx="14"/><text class="muted" x="440" y="158" font-size="13">TOTAL RWA - ILLUSTRATIVE</text><text x="440" y="205" font-size="30" font-weight="700" fill="#2e70dc">745.9M</text><rect class="card" x="788" y="126" width="334" height="104" rx="14"/><text class="muted" x="806" y="158" font-size="13">CAPITAL BUFFER - ILLUSTRATIVE</text><text x="806" y="205" font-size="30" font-weight="700" fill="#2e70dc">112.3M</text><text x="58" y="307" font-size="22" font-weight="700">ILLUSTRATIVE RWA COMPONENTS</text>
+<text x="66" y="370" font-size="15">CREDIT RWA</text><rect x="330" y="345" width="680.0" height="28" rx="6" fill="#2e70dc"/><text class="muted" x="1030.0" y="366" font-size="14">588.2M</text><text x="66" y="453" font-size="15">OP RISK RWA</text><rect x="330" y="428" width="94.4" height="28" rx="6" fill="#1fa497"/><text class="muted" x="444.4" y="449" font-size="14">81.7M</text><text x="66" y="536" font-size="15">MARKET RWA</text><rect x="330" y="511" width="87.9" height="28" rx="6" fill="#1fa497"/><text class="muted" x="437.9" y="532" font-size="14">76.0M</text>
+<text class="muted" x="58" y="664" font-size="14">RWA = CREDIT RWA + FLAT CHARGES X 12.5</text>
+<text class="muted" x="58" y="710" font-size="14">NOT A REGULATORY DETERMINATION OR COMPLIANCE CLAIM</text></svg>
