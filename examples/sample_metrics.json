@@ -1,0 +1,18 @@
+{
+  "institution": "Cedar Vale Illustrative Finance Co.",
+  "eligible_capital": 172000000,
+  "credit_exposures": [
+    {"name": "Residential mortgages", "amount": 620000000, "risk_weight": 0.50},
+    {"name": "Small business lending", "amount": 285000000, "risk_weight": 0.85},
+    {"name": "Sovereign securities", "amount": 180000000, "risk_weight": 0.20},
+    {"name": "Cash and central-bank balances", "amount": 95000000, "risk_weight": 0.00}
+  ],
+  "gross_income_3y": [41200000, 43800000, 45700000],
+  "market_exposure": 76000000,
+  "assumptions": {
+    "operational_charge_rate": 0.15,
+    "market_charge_rate": 0.08,
+    "illustrative_total_capital_floor": 0.08,
+    "charge_to_rwa_multiplier": 12.5
+  }
+}
